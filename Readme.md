@@ -6,7 +6,7 @@
 
 Padrões de projeto e encapsulamento de ações em Cypress. [QAninja](https://qaninja.academy/).
 
-#### :information_source: O projeto de testes foi realizado sobre a aplicação [Parodify](https://parodify.herokuapp.com/), desenvolvida pelo [Fernando Papito](https://www.linkedin.com/in/papitoio/) para a realização de cursos e conteúdos gratuitos =)
+#### :information_source: O projeto de testes foi realizado sobre a aplicação [Parodify](https://parodify.herokuapp.com/), desenvolvida para a realização de cursos e conteúdos gratuitos =)
 
 ## :books: Conceitos Apresentados
 
