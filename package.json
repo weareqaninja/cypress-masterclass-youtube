@@ -1,0 +1,10 @@
+{
+  "name": "cypress-masterclass-01-parodify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Fernando Papito",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.3.1"
+  }
+}
